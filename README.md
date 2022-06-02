@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/shaaxbooz)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/ggautterr)**
 
 - 📫 How to reach me **ggautterr@gmail.com**
 
@@ -42,4 +42,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=iar28">
 </a>
-<a href="https://github.com/shaaxbooz?tab=followers"><img src="https://img.shields.io/github/followers/shaaxbooz?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/ggautterr?tab=followers"><img src="https://img.shields.io/github/followers/ggautterr?label=Followers&style=social" alt="GitHub Badge"></a>
